@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_odd_numbers"
+        android:title="Odd Numbers"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/menu_even_numbers"
+        android:title="Even Numbers"
+
+        />
+    <item android:id="@+id/prime_number"
+        android:title="Prime Numbers"
+        />
+
+    <item android:id="@+id/Fibonaci_series"
+        android:title="Fibonaci Series"
+       />
+</menu>
